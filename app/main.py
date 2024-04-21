@@ -1,6 +1,7 @@
 class Car:
-    # write your code here
-    pass
+    def __init__(self):
+        # write your code here
+        pass
 
 
 class CarWashStation:
